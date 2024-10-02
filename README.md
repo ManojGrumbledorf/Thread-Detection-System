@@ -1,6 +1,3 @@
-
-Here’s a description you can use for your GitHub repository, tailored to your goal of understanding AI's role in cybersecurity and gradually building an AI-Powered Threat Detection system:
-
 AI-Powered Threat Detection System 🚀
 This repository is dedicated to building an AI-Powered Threat Detection and Response System, with the goal of understanding and implementing how artificial intelligence (AI) can be leveraged in the field of cybersecurity.
 
@@ -27,7 +24,7 @@ Level 5: Unsupervised Learning for Zero-Day Threats
 Level 6: Develop Automated Response Mechanisms
 Level 7: Integrate with SOC Dashboard for Real-Time Monitoring
 💡 Why AI in Cybersecurity?
-Artificial Intelligence has the potential to transform cybersecurity by enabling faster and more accurate threat detection, reducing human error, and automating response mechanisms. This project aims to explore these benefits and create a system that can proactively secure digital infrastructures.
+Artificial Intelligence has the potential to transform cybersecurity by enabling faster and more accurate threat detection, reducing human error, and automating response mechanisms. This project explores these benefits and creates a system that can proactively secure digital infrastructures.
 
 🛠️ Tools and Technologies:
 Python for programming and implementation
